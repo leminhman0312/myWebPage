@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="utf-8">
+    <script src="https://use.fontawesome.com/d1341f9b7a.js"></script>
+    <link rel="stylesheet" href="newStyle.css">
+    <title>Personal Website</title>
+  </head>
+  <body>
+    <div class="box">
+      <div class="box-inner">
+        <img src="max.png" alt="" class="box-img" >
+        <h1>Max Le</h1>
+        <h5>Mechanical Engineer - CFD Enthusiast</h5>
+        <p>As a mechanical engineer whose interest also spans the realm of software development, I strive to use my knowledge to push the limits of human endeavor in science.</p>
+        <ul>
+      <li><a href="#"><i class="fa fa-github-square" aria-hidden="true"></i></a></li>
+      <li><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </body> 
+</html>
